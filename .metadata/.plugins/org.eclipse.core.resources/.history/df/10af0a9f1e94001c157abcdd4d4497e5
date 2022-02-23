@@ -1,0 +1,13 @@
+import p1._
+
+
+object s7
+
+{
+  
+  
+  def main(args: Array[String])
+  {
+    println("ppp")
+  }
+}

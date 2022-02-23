@@ -1,0 +1,14 @@
+package p7
+
+
+import org.apache.spark.sql.SparkSession
+import p7._
+
+object s77 {
+  def main(args: Array[String])
+  {
+   println("oooppll") 
+   
+   Config.s.conf.getAll.foreach(println)
+  }
+}

@@ -1,0 +1,14 @@
+package p1
+
+
+
+
+object s6{
+  
+  
+  def main(args: Array[String])
+  {
+   println("ooo") 
+  }
+  
+}

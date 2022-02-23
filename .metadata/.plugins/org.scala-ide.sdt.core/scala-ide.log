@@ -1,0 +1,132 @@
+2022-02-22 11:36:44,584  WARN [main] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:36:44,585  WARN [main] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:36:46,445  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:36:46,447  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:36:46,542 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:36:46,575 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:36:47,479  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:36:47,480  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:36:47,497 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:36:48,018  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:36:48,018  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:36:48,050 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:04,303  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:04,303  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:04,338 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:04,854  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:04,854  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:04,891 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:20,615  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:20,616  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:20,626 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:21,144  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:21,144  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:21,155 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:25,720  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:25,720  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:25,732 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:26,248  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:26,249  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:26,264 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:37,873 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2022-02-22 11:37:37,873 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2022-02-22 11:37:54,631  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:54,632  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:54,650 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:37:55,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:37:55,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:37:55,183 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:38:00,124  WARN [main] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:00,124  WARN [main] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:00,248  WARN [main] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:00,248  WARN [main] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:00,737  WARN [Worker-3] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:00,737  WARN [Worker-3] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:02,558  WARN [Worker-3] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:02,558  WARN [Worker-3] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:42,913  WARN [Worker-1] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:42,913  WARN [Worker-1] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:43,089  WARN [Worker-4] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:43,089  WARN [Worker-4] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:43,672  WARN [Worker-4] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:43,672  WARN [Worker-4] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:44,259  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:38:44,260  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:38:44,286 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:38:44,788  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:38:44,788  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:38:44,842 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:38:46,141  WARN [main] - ScalaProject - Project m6 has platform default sourceLevel.
+2022-02-22 11:38:46,141  WARN [main] - ScalaProject - Project m6 runs on platform default installation.
+2022-02-22 11:38:55,181  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:38:55,181  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:38:55,189 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:38:55,703  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:38:55,703  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:38:55,857 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:09,903  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:09,903  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:09,909 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:10,417  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:10,417  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:10,522 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:13,478  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:13,478  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:13,484 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:14,002  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:14,002  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:14,020 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:16,551  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:16,551  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:16,557 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:17,067  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:17,067  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:17,087 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:19,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:19,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:19,647 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:39:20,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:39:20,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:39:20,172 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:40:19,219  WARN [main] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:19,219  WARN [main] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:19,288  WARN [main] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:19,288  WARN [main] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:19,697  WARN [Worker-5] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:19,697  WARN [Worker-5] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:20,164  WARN [Worker-5] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:20,164  WARN [Worker-5] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:32,637  WARN [Worker-5] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:32,637  WARN [Worker-5] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:32,641  WARN [Worker-5] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:32,641  WARN [Worker-5] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:32,773  WARN [Worker-6] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:32,773  WARN [Worker-6] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:33,209  WARN [Worker-6] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:33,209  WARN [Worker-6] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:40:36,901  WARN [main] - ScalaProject - Project s7 has platform default sourceLevel.
+2022-02-22 11:40:36,901  WARN [main] - ScalaProject - Project s7 runs on platform default installation.
+2022-02-22 11:41:59,797  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:41:59,797  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:41:59,809 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 11:42:00,313  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 11:42:00,314  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 11:42:00,321 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 12:21:10,169  WARN [main] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 12:21:10,171  WARN [main] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 12:21:11,617  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 12:21:11,619  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 12:21:12,300 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 12:21:12,320 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 12:21:12,666  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 12:21:12,666  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 12:21:12,685 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 12:21:13,192  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 12:21:13,192  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 12:21:13,207 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+2022-02-22 12:21:13,612 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.builder.MavenBuilder).
+2022-02-22 12:21:13,612 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2022-02-22 12:21:57,412 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2022-02-22 12:24:59,842  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   has platform default sourceLevel.
+2022-02-22 12:24:59,842  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project   runs on platform default installation.
+2022-02-22 12:24:59,994 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.

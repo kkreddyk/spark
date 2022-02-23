@@ -1,0 +1,8 @@
+import org.apache.spark.sql.SparkSession
+
+object Config {
+  
+  
+  val s = SparkSession.builder().appName("APP-1").getOrCreate().config("spark.sql.shuffle.partitions","300")
+  
+}

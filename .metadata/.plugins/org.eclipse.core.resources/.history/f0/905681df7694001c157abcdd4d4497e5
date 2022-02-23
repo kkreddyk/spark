@@ -1,0 +1,12 @@
+package p7
+
+import org.apache.spark.sql.SparkSession
+
+object Config {
+  
+  
+  val s=SparkSession.builder.master("local[*]").appName("S77").getOrCreate()
+ 
+  
+  s.read.format("csv").load("C:\Datas\Bigdata\spark_data_files\src\1\")
+}
