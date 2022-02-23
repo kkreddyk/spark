@@ -7,7 +7,7 @@ import p7.Config._
 object s77 {
   def main(args: Array[String])
   {
-   println("oo999ll") 
+   println("oo999ll ") 
    
    s.conf.getAll.foreach(println)
    import s.implicits._
