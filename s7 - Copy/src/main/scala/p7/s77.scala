@@ -3,11 +3,17 @@ package p7
 
 import org.apache.spark.sql.SparkSession
 import p7.Config._
+import org.apache.log4j.Logger
+import org.apache.log4j.Level
+
+
 
 object s77 {
   def main(args: Array[String])
   {
    println("oo999ll...... ")
+   Logger.getLogger("org").setLevel(Level.OFF)
+   Logger.getLogger("akka").setLevel(Level.OFF)
    
    s.conf.getAll.foreach(println)
    import s.implicits._
