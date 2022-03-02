@@ -7,6 +7,7 @@ import org.apache.logging.log4j.Logger
 import org.apache.logging.log4j.LogManager
 
 
+
 object stream1 {
   
   
@@ -32,7 +33,12 @@ object stream1 {
         logger.fatal("This is fatal message");
         logger.error("This is error message");
        println("log level:::::"+ logger.getLevel())
+
+       
+       println("===="+this.getClass.getName)
     
+       
+       Thread.sleep(100000)
     
     println("Stream:::")
     val initDF = s.readStream.format("rate").option("rowsPerSecond",1).load()
