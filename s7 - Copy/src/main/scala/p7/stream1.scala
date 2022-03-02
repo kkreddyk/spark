@@ -38,7 +38,7 @@ object stream1 {
        println("===="+this.getClass.getName)
     
        
-       Thread.sleep(100000)
+       //Thread.sleep(100000)
     
     println("Stream:::")
     val initDF = s.readStream.format("rate").option("rowsPerSecond",1).load()
