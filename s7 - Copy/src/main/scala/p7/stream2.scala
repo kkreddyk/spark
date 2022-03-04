@@ -13,7 +13,7 @@ object stream2 {
   
   def main(args: Array[String]){
     
-    println("starting")
+    println("starting...")
     
     val s=SparkSession.builder().appName("Streaming").master("local[*]").getOrCreate()
    
