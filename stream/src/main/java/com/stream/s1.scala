@@ -41,9 +41,17 @@ object s1 {
 	  //Thread.sleep(100000)
 
 	  println("Stream:::")
-	  val initDF = s.readStream.format("rate").option("rowsPerSecond",1).load()
+	  //val initDF = s.readStream.format("rate").option("rowsPerSecond",1).load()
 	  //val initDF = s.readStream.format("rate").load
 
+	  
+	  
+	  val initDF = s
+  .readStream
+  .format("kafka")
+  .option("kafka.bootstrap.servers", "192.168.116.134:9092")
+  .option("subscribe", "quickstart-events")
+  .load()
 	  //val st = new StructType().add("value", "string")
 	  //val initDF = s.readStream.format("file").option("delimiter",":").schema(st).csv("C:\\Datas\\Logs")
 
@@ -52,7 +60,9 @@ object s1 {
 	  println("Is Streaming? :: " + initDF.isStreaming)
 
 
-	  val resultDF = initDF.withColumn("result____x_____y", col("value") + lit(9))
+	  val resultDF = initDF
+	  
+	  //.withColumn("result____x_____y", col("value") + lit(9))
 
 	  resultDF.writeStream.format("console").start().awaitTermination()
 
