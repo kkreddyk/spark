@@ -43,10 +43,9 @@ object stream3 {
 
 //s.sql("select * from a").writeStream.outputMode("Append").format("parquet").option("path","C:\\Datas\\Logs\\1").option("checkpointLocation","C:\\Datas\\Logs\\2").start().awaitTermination()
 
-//s.sql("select * from a").writeStream.outputMode("Append").format("csv").option("path","C:\\Datas\\Logs\\1").option("checkpointLocation","C:\\Datas\\Logs\\2").start().awaitTermination()
+s.sql("select * from a").writeStream.outputMode("Append").format("csv").option("path","C:\\Datas\\Logs\\1").option("checkpointLocation","C:\\Datas\\Logs\\2").start().awaitTermination()
 	
-	  s.sql("select count(*) from a").writeStream.outputMode("Complete").format("parquet").option("path","C:\\Datas\\Logs\\1").option("checkpointLocation","C:\\Datas\\Logs\\2").start().awaitTermination()
-	  
+
 	  //resultDF.writeStream.outputMode("Update").format("console").start().awaitTermination()
 
 	  //resultDF.writeStream.outputMode("append").option("truncate",false).format("console").start().awaitTermination()
